@@ -5,7 +5,7 @@ level: 2
 type: challenges
 ---
 
-## Week 4 Challenges!
+## Module 4 Challenges!
 
 Don't forget to finish today's ToDo before tackling the challenges below.
 
