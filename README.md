@@ -1,9 +1,4 @@
----
-tags: active record, database, kids, ruby, advanced, challenges
-language: ruby
-level: 2
-type: challenges
----
+
 
 ## Module 4 Challenges!
 
