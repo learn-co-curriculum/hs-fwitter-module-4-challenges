@@ -8,4 +8,4 @@ Don't forget to finish today's ToDo before tackling the challenges below.
 + Check out the Ruby Labs section of Learn.
 
 
-<a href='https://learn.co/lessons/hs-fwitter-module-4-challenges' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-fwitter-module-4-challenges' title='Module 4 Challenges!'>Module 4 Challenges!</a> on Learn.co and start learning to code for free.</p>
